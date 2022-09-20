@@ -1,0 +1,14 @@
+Caravana            Nombre              Raza                Categoria           Seccion             ID INTERNO          Procedencia         Sexo                Edad en meses       Caravana de la MadreCaravana del Padre  Caravana de Abuelo  Preniada            Fecha de NacimientoMuerto    Vendido   
+_____________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________________
+000000000000001                         brangus             vaca                                    2                                       HEMBRA              240                 000000000000000     000000000000000                         NO        10/10/2000           NO        NO        
+000000000000002     pedro escamoso      anda a saber        lechera                                 122                 balneario           HEMBRA              36                  000000000000000     000000000000000                         NO        23/70/2017           NO        NO        
+000000001234567     URBANO              HOLANDO             HOLANDO             15                  105                  COMPRADO            MACHO               24                  000000000000000     000000000000000                         NO        60/70/2018           NO        NO        
+
+
+*** Se exporto los registros de ANIMALES con todos sus atributos...
+
+********************************************************************************************************************************************************************************************************************************************************************************************************************
+
+Datos de Todos los Registros de Animales exportados en formato de texto plano.-
+
+* Archivo generado por Estancia LA LILI el: 27/6/2020.-  A las: 04:59:36

@@ -1,0 +1,14 @@
+Apellido         Nombre         Titulo   Especialidad        C.U.I.T      Direccion       Telefono      Localidad        Usuario
+_____________________________________________________________________________________________________________________________
+Lopez       Cristian    Veterinario                                                                                        SI
+Copes          Mario    Veterinario                                                                                        SI
+Ferreyra          Brian       Ayudante                                                                                        SI
+
+
+*** Se exporto los registros de PROFESIONALES con todos sus atributos...
+
+*******************************************************************************************************************
+
+Datos de Todos los Profesionales exportados en formato de texto plano.-
+
+* Archivo generado con CTambo el: 27/6/2020.-  A las: 04:24:35

@@ -1,0 +1,17 @@
+RP del evento       Produccion    Fecha del Evento    Responsable             Observacones
+___________________________________________________________________________________________________________________
+000000000000001              0        26/7/2020          Copes                         
+000000000000001              0        26/5/2020       Ferreyra                         
+000000000000001              0        26/5/2020       Ferreyra                         
+000000000000001              0        26/7/2020          Copes                         
+000000000000002              0        26/7/2020       Ferreyra                         
+000000000000002              0        26/5/2020       Ferreyra                         
+
+
+*** Se exporto los registros de EVENTOS con todos sus atributos...
+
+*******************************************************************************************************************
+
+Datos de Todos los Registros de Eventos exportados en formato de texto plano.-
+
+* Archivo generado con CTambo el: 27/6/2020.-  A las: 04:18:26
